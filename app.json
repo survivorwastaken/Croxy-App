@@ -1,0 +1,8 @@
+{
+    "name": "Croxy App",
+    "description": "Node.js Croxy instance",
+    "repository": "https://github.com/survivorwastaken/Croxy-App",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+    "keywords": ["croxy", "proxy"]
+  }
+  
